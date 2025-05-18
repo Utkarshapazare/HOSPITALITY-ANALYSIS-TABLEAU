@@ -40,6 +40,7 @@ There are filters for users to explore data by city, room class, category, platf
 
 - Tableau Public
 - Excel (for initial data prep)
+- SQL for writting queries for KPI'S and charts
 
 
 
